@@ -6,3 +6,4 @@
 - **[@coreyms](https://www.youtube.com/@coreyms)**: Corey Schafer
 - **[@AnacondaInc.](https://www.youtube.com/@AnacondaInc.)**: Anaconda Inc.
 - **[@AutomateTheBoringStuff](https://www.youtube.com/@AutomateTheBoringStuff)**: Al Sweigart
+- **[@prettyprinted](https://www.youtube.com/@prettyprinted)**: Pretty Printed
