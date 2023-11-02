@@ -9,3 +9,4 @@
 - **[@prettyprinted](https://www.youtube.com/@prettyprinted)**: Pretty Printed
 - **[@sentdex](https://www.youtube.com/@sentdex)**: Sentdex
 - **[@ReuvenLerner](https://www.youtube.com/reuvenlerner)**: Reuven Lerner
+- **[@dabeazllc](https://www.youtube.com/@dabeazllc)**: David Beazley
