@@ -13,3 +13,4 @@
 - **[@TokyoEdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)**: TokyoEdtech
 - **[@mikeckennedy](https://www.youtube.com/user/mkennedy66996694)**: Micheal Kennedy
 - **[@realpython](https://www.youtube.com/realpython)**: Real Python
+- **[@dataschool](https://www.youtube.com/@dataschool)**: Data School
