@@ -10,3 +10,4 @@
 - **[@sentdex](https://www.youtube.com/@sentdex)**: Sentdex
 - **[@ReuvenLerner](https://www.youtube.com/reuvenlerner)**: Reuven Lerner
 - **[@dabeazllc](https://www.youtube.com/@dabeazllc)**: David Beazley
+- **[@TokyoEdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)**: TokyoEdtech
