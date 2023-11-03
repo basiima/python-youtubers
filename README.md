@@ -7,7 +7,7 @@
 - **[@AnacondaInc.](https://www.youtube.com/@AnacondaInc.)**: Anaconda Inc.
 - **[@AutomateTheBoringStuff](https://www.youtube.com/@AutomateTheBoringStuff)**: Al Sweigart
 - **[@prettyprinted](https://www.youtube.com/@prettyprinted)**: Pretty Printed
-- **[@sentdex](https://www.youtube.com/@sentdex)**: Sentdex
+- **[@sentdex](https://www.youtube.com/@sentdex)**: Sentdex (Harrison Kinsley)
 - **[@ReuvenLerner](https://www.youtube.com/reuvenlerner)**: Reuven Lerner
 - **[@dabeazllc](https://www.youtube.com/@dabeazllc)**: David Beazley
 - **[@TokyoEdTech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)**: TokyoEdtech
