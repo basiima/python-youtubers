@@ -15,4 +15,5 @@
 - **[@realpython](https://www.youtube.com/realpython)**: Real Python
 - **[@dataschool](https://www.youtube.com/@dataschool)**: Data School
 - **[@AhmadBazzi](https://www.youtube.com/@AhmadBazzi)**: Ahmad Bazzi
-- **[@patloeber](https://www.youtube.com/@patloeber)**: Patrick Loeber- 
+- **[@patloeber](https://www.youtube.com/@patloeber)**: Patrick Loeber
+- **[@PythonSimplified](https://www.youtube.com/@PythonSimplified)**: Python Simplified
