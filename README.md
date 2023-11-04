@@ -18,3 +18,4 @@
 - **[@patloeber](https://www.youtube.com/@patloeber)**: Patrick Loeber
 - **[@PythonSimplified](https://www.youtube.com/@PythonSimplified)**: Python Simplified
 - **[@DigitalSreeni](https://www.youtube.com/@DigitalSreeni)**: Digital Sreeni
+- **[@talkpython](https://www.youtube.com/@talkpython)**: Talk Python
