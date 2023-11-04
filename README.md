@@ -14,3 +14,4 @@
 - **[@mikeckennedy](https://www.youtube.com/user/mkennedy66996694)**: Micheal Kennedy
 - **[@realpython](https://www.youtube.com/realpython)**: Real Python
 - **[@dataschool](https://www.youtube.com/@dataschool)**: Data School
+- **[@AhmadBazzi](https://www.youtube.com/@AhmadBazzi)**: Ahmad Bazzi
