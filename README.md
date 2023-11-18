@@ -20,3 +20,4 @@
 - **[@DigitalSreeni](https://www.youtube.com/@DigitalSreeni)**: Digital Sreeni
 - **[@talkpython](https://www.youtube.com/@talkpython)**: Talk Python
 - **[@python-programming](https://www.youtube.com/@python-programming)**: Python Tutorials for Digital Humanities
+- **[@PyDataTV](https://www.youtube.com/c/PyDataTV)**: PyData
